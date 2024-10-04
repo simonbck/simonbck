@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [MediPlan](https://github.com/simonbck/MediPlan)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
